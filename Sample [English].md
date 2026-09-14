@@ -3,7 +3,7 @@
 ## Reference
 
 - Reference Paper:
-  - Ray-Guang Cheng and Chung-Ju Chang, “Design of a Fuzzy Traffic Controller for ATM Networks,” *IEEE/ACM Transactions on Networking*, vol. 4, no. 3, pp. 460–469, June 1996.
+  - - [Ray-Guang Cheng and Chung-Ju Chang, "Design of a fuzzy traffic controller for ATM networks," in IEEE/ACM Transactions on Networking, vol. 4, no. 3, pp. 460-469, June 1996](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=502244)
 
 - Prompt:
 
@@ -110,7 +110,7 @@ Define the following components.
 - \(z\): admission decision  
   - Accept / WA / WR / Reject
 
-Use a **system block diagram** to clearly show:
+Use a [**system block diagram](https://github.com/user-attachments/assets/30afb519-a782-4b61-bb98-a345e0c9929d)** to clearly show:
 
 - **Environment**
 - **Proposed control modules**
