@@ -191,7 +191,7 @@ Answer the following two questions:
 
 When applying this template to another project, maintain the following logical flow:
 
-**Problem → Importance → Challenges → System Assumptions → Inputs/Outputs → Metrics → Experiment Design → Cross-Validation**
+**Problem → Importance → Challenges →System Block Diagram → Assumptions → Inputs/Outputs → Metrics →Experiment Design → Figures → Cross-Validation**
 
 The final project plan should make it possible to answer three questions clearly:
 
